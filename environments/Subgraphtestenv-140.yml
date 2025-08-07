@@ -1,0 +1,11 @@
+fileVersion: 1
+id: "140"
+mappingDefinitions:
+  SRC:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  TARGET:
+    database: BEN_EDW
+    schema: SUBGRAPH_TEST_ENV
+name: Subgraph test env
+type: Environment
